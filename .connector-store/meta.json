@@ -1,0 +1,19 @@
+{
+    "name": "mqtt",
+    "owner": "WSO2",
+    "category": "Siddhi IO",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-io-mqtt/",
+    "description": "The siddhi-io-mqtt is an extension to Siddhi mqtt source and sink implementation,that publish and receive events from mqtt broker.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-io",
+        "mqtt"
+    ],
+    "releases": [
+        {
+            "tagName": "1.1.1",
+            "products": []
+        }
+    ]
+}
